@@ -1,8 +1,9 @@
 import React from 'react'
+import Mainflame from './Mainframe'
 
 const Template = () => (
   <div className="App-template">
-    aaa
+    <Mainflame />
   </div>
 )
 
