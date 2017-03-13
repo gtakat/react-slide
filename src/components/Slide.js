@@ -41,7 +41,7 @@ const CONTENT = [
     <div className="App-mainflame-header">さまよい</div>
     <div className="App-mainflame-body">
       <ul>
-        <li>jest, chai, enzymeあたりでテストを書いた</li>
+        <li>jest、chai、enzymeあたりでテストを書いた</li>
         <li>音を出しているところをテストしたくなった</li>
         <ul>
           <li>テストを書いてみるも動かず</li>
@@ -78,6 +78,16 @@ const CONTENT = [
   </div>,
 
   <div className="App-slide">
+    <div className="App-mainflame-header">さまよい</div>
+    <div className="App-mainflame-body">
+      <ul>
+        <li>Storybookにちょっと寄り道</li>
+        <li>iidaさんにこれ良くないっすかとか余計なことを言う</li>
+      </ul>
+    </div>
+  </div>,
+
+  <div className="App-slide">
     <div className="App-mainflame-header">第２章</div>
     <div className="App-mainflame-body">
       <ul>
@@ -107,6 +117,11 @@ const CONTENT = [
           <li>container, reducer, connect周り</li>
         </ul>
         <li>テストがぼろぼろになったので書き直し（調整）</li>
+        <ul>
+          <li>テストの適切な分離がまだいまいち</li>
+          <li>音をだすところのテストはどこに書くのが適切か？</li>
+          <li>エントリーポイントのテストのやり方は引き続き分からない</li>
+        </ul>
         <li>demo</li>
       </ul>
     </div>
@@ -136,7 +151,7 @@ const CONTENT = [
   </div>,
 
   <div className="App-slide">
-    <div className="App-mainflame-full">react-reduxでできています!!</div>
+    <div className="App-mainflame-full">react-reduxで<br />できています!!</div>
   </div>,
 
   <div className="App-slide">
