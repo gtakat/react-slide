@@ -11,7 +11,7 @@ const CONTENT = [
     <div className="App-mainflame-body">
       <ul>
         <li>まずはReactの学習から始めた</li>
-        <li>hkanoさんのオセロに触発されて五目並べを作ることに</li>
+        <li>hk◯◯さんのオセロに触発されて五目並べを作ることに</li>
         <li>create-react-app</li>
       </ul>
     </div>
@@ -82,7 +82,7 @@ const CONTENT = [
     <div className="App-mainflame-body">
       <ul>
         <li>Storybookにちょっと寄り道</li>
-        <li>iidaさんにこれ良くないっすかとか余計なことを言う</li>
+        <li>ii◯◯さんにこれ良くないっすかとか余計なことを言う</li>
       </ul>
     </div>
   </div>,
