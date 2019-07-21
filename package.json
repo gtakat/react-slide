@@ -18,23 +18,22 @@
   },
   "homepage": "https://github.com/gtakat/react-slide#readme",
   "devDependencies": {
-    "babel-core": "^6.23.1",
-    "babel-loader": "^6.4.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-react": "^6.23.0",
-    "file-loader": "^0.10.1",
-    "url-loader": "^0.5.8",
-    "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.4.1",
-    "webpack-init": "^0.1.2"
+    "file-loader": "^4.1.0",
+    "url-loader": "^2.1.0",
+    "webpack": "^4.36.1",
+    "webpack-dev-server": "^3.7.2",
+    "webpack-cli": "^3.3.6"
   },
   "dependencies": {
-    "css-loader": "^0.26.4",
+    "css-loader": "^3.1.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-redux": "^5.0.3",
     "redux": "^3.6.0",
-    "style-loader": "^0.13.2",
-    "svg-loader": "0.0.2"
+    "style-loader": "^0.23.1"
   }
 }
